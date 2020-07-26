@@ -1,0 +1,30 @@
+body {
+    background-color: whitesmoke;
+    border: 1px solid red;
+}
+
+.mainbox {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: auto;
+    padding: 200px;
+    position: relative;
+    top: 100px;
+}
+
+.boxtext {
+    padding: 4px;
+    float: right;
+    width: 400px;
+}
+
+.drawers {
+    float: left;
+    width: 500px;
+}
+
+.img {
+    border-radius: 50%;
+    width: 50px;
+}
